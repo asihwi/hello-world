@@ -1,2 +1,2 @@
 # hello-world
-the begining from anything who come soon
+the begining from anything who came soon
